@@ -1,0 +1,6 @@
+plotly
+ipywidgets
+numpy
+sympy
+math
+cmath
